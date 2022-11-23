@@ -1,0 +1,58 @@
+/* Import custom font */
+@font-face {
+  font-family: century-gothic;
+  src: url('./assets/font/CenturyGothic.ttf');
+  font-weight: 400;
+}  
+@font-face {
+  font-family: century-gothic-bold;
+  src: url('./assets/font/CenturyGothicBold.ttf');
+  font-weight: 700;
+}
+
+/* Default css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 75px;
+}
+body {
+  font-weight: 400;
+  overflow-x: hidden;
+  position: relative;
+  background-image: url('./assets/img/galaxy.png');
+  background-color: #2f1e4a !important;
+  color: #ffffff !important;
+  font-family: 'century-gothic', sans-serif !important;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+}
+p, a, li, button, ul {
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+button {
+  border: 0;
+  background-color: transparent;
+}
+input:focus, textarea:focus, select:focus {
+  outline: none;
+}
+@media (min-width:1700px) {
+	main .container {
+		max-width: 100%;
+		padding: 0 150px;
+	}
+}
