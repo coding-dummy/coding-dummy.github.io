@@ -7,7 +7,7 @@ export const Banner = () => {
 
     const [loopNum, setLoopNum] = useState(0);
     const [isRemoving, setIsRemoving] = useState(false);
-    const toShow = [ "Student.", "Designer.", "Developer.", "Husband."];
+    const toShow = [ "Graduate.", "Designer.", "Developer.", "Husband."];
     const [text, setText] = useState('');
     const [delta, setDelta] = useState(150);
     const period = 3000;
@@ -47,7 +47,7 @@ export const Banner = () => {
                 <Row className="align-items-center">
                     <Col xs={12} md={6} xl={7}>
                         <h1>{`Hello, I'm Tavis. `}<br></br><span className="wrap">I am a {text}</span></h1>
-                        <p>I am a third year student, studying BEng in IT at OAMK, with a keen interest in web design and all things coding. I was born and raised in the United Kingdom but I moved to Finland a few years back and haven't regretted the choice since.</p>
+                        <p>I am a graduate with a BEng in IT from OAMK, with a keen interest in web design, all things coding and customer service. I was born and raised in the United Kingdom but I moved to Finland a few years back and haven't regretted the choice since.</p>
                     </Col>
                     <Col xs={12} md={6} xl={5}>
                         <img className="me" src={me} alt="Banner Img" />

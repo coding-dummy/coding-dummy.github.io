@@ -11,7 +11,7 @@ export const Skills = () => {
         {
             imgUrl: code,
             title: "Languages",
-            list: ["HTML", "CSS", "JavaScript", "C#",],
+            list: ["JavaScript", "C#",],
         },
         {
             imgUrl: gear,
@@ -21,7 +21,7 @@ export const Skills = () => {
         {
             imgUrl: design,
             title: "Tools",
-            list: ["Visual Studio Code", "Figma", "Adobe Photoshop 2020", "Sony Vegas",],
+            list: ["Figma", "Adobe Photoshop 2020", "Sony Vegas",],
         },
     ];
 
