@@ -28,7 +28,7 @@
 }
 .banner img {
     border-radius: 50%;
-    border: 10px solid #2f1e4ad5;
+    border: 8px solid #2f1e4ad5;
 }
 @media screen and (max-width: 450px) {
     .banner h1{
