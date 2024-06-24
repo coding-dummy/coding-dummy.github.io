@@ -5,16 +5,23 @@ import { ProjectCard } from "./ProjectCard";
 import TrackVisibility from "react-on-screen";
 import cliche from "../assets/img/cliche-idle.png";
 import hermes from "../assets/img/hermes.png";
-import oamk from "../assets/img/oamk-note.png";
+import ene from "../assets/img/ene.png";
 import atk from "../assets/img/atk-store.png";
 
 export const Projects = () => {
 
 	const projects = [
 		{
+			link: "https://urn.fi/URN:NBN:fi:amk-2024051311166",
+			title: "ENE Mapping App",
+			description: "My thesis documenting the development process of a web-based mapping application aimed at facilitating user-generated markers for location-specific information sharing, themed around the usage of an energy supplier company.",
+			imgUrl: ene,
+			info: "Created with JavaScript in React.",
+		},
+		{
 			link: "https://github.com/Cliche-Studio/Cliche-Idle-App",
 			title: "Cliché Idle",
-			description: "An ongoing group project, where we are creating a idle mobile game using Unity.",
+			description: "A group project, where we are created a basic idle mobile game using Unity.",
 			imgUrl: cliche,
 			info: "Created with C# in Unity.",
 		},
@@ -24,13 +31,6 @@ export const Projects = () => {
 			description: "A 2nd year group project where we created a food delivery application. I was largly in charge of the frontend with UI design and assets.",
 			imgUrl: hermes,
 			info: "Created with JavaScript in React.",
-		},
-		{
-			link: "https://xerren09.github.io/OAMK-Notes/",
-			title: "OAMK Note",
-			description: "A 1st year group project where we created a site for OAMK students to create and store notes.",
-			imgUrl: oamk,
-			info: "Created with JavaScript.",
 		},
 		{
 			link: "https://github.com/coding-dummy/Old-portfolio-page/tree/master/Year%201/OOBP%20Exercise1",

@@ -47,7 +47,7 @@ export const Banner = () => {
                 <Row className="align-items-center">
                     <Col xs={12} md={6} xl={7}>
                         <h1>{`Hello, I'm Tavis. `}<br></br><span className="wrap">I am a {text}</span></h1>
-                        <p>I am a graduate with a BEng in IT from OAMK, with a keen interest in web design, coding, customer service and all things IT. I was born and raised in the United Kingdom but I moved to Oulu here in Finland a few years back and haven't regretted the choice since.</p>
+                        <p>I am a graduate with a BEng in IT from OAMK, with a keen interest in web design, coding, customer service and all things IT. I was born and raised in the United Kingdom, but I moved to Oulu here in Finland a few years back and haven't regretted the choice since.</p>
                     </Col>
                     <Col xs={12} md={6} xl={5}>
                         <img className="me" src={me} alt="Banner Img" />
