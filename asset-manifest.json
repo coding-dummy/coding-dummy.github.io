@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.29f3db54.css",
-    "main.js": "/static/js/main.b739eb4d.js",
+    "main.js": "/static/js/main.0b95c2fd.js",
     "static/js/787.2196b43b.chunk.js": "/static/js/787.2196b43b.chunk.js",
     "static/media/galaxy.png": "/static/media/galaxy.2d08a04413c9860c34ff.png",
+    "static/media/ene.png": "/static/media/ene.0b3a20ae701abb8b5a36.png",
     "static/media/cliche-idle.png": "/static/media/cliche-idle.6b4e03f347072926520d.png",
     "static/media/hermes.png": "/static/media/hermes.0c12e998d3dbf4a1e33d.png",
     "static/media/CenturyGothic.ttf": "/static/media/CenturyGothic.b194aa2bd524e2c973f7.ttf",
     "static/media/CenturyGothicBold.ttf": "/static/media/CenturyGothicBold.bed9b78456761fa9b435.ttf",
     "static/media/meIrl.png": "/static/media/meIrl.d10a782e97f4068ab50d.png",
     "static/media/atk-store.png": "/static/media/atk-store.93fd25b245007508c8b6.png",
-    "static/media/oamk-note.png": "/static/media/oamk-note.4099b9738511f7611713.png",
     "static/media/ts.png": "/static/media/ts.b67035d0ddc7c8797af4.png",
     "index.html": "/index.html",
     "main.29f3db54.css.map": "/static/css/main.29f3db54.css.map",
-    "main.b739eb4d.js.map": "/static/js/main.b739eb4d.js.map",
+    "main.0b95c2fd.js.map": "/static/js/main.0b95c2fd.js.map",
     "787.2196b43b.chunk.js.map": "/static/js/787.2196b43b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29f3db54.css",
-    "static/js/main.b739eb4d.js"
+    "static/js/main.0b95c2fd.js"
   ]
 }
