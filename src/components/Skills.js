@@ -15,7 +15,7 @@ export const Skills = () => {
         },
         {
             title: "Tools",
-            list: ["Figma", "Adobe Photoshop 2020", "Sony Vegas",],
+            list: ["Figma", "Adobe Photoshop", "Sony Vegas",],
         },
     ];
 
