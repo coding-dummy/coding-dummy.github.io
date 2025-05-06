@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7dacd188.css",
+    "main.js": "/static/js/main.c113720c.js",
+    "static/js/453.32bc8d24.chunk.js": "/static/js/453.32bc8d24.chunk.js",
+    "static/media/galaxy.png": "/static/media/galaxy.2d08a04413c9860c34ff.png",
+    "static/media/meIrl.png": "/static/media/meIrl.0a488867ea4fb0b2f50b.png",
+    "static/media/ene.png": "/static/media/ene.0b3a20ae701abb8b5a36.png",
+    "static/media/cliche-idle.png": "/static/media/cliche-idle.6b4e03f347072926520d.png",
+    "static/media/hermes.png": "/static/media/hermes.0c12e998d3dbf4a1e33d.png",
+    "static/media/CenturyGothic.ttf": "/static/media/CenturyGothic.b194aa2bd524e2c973f7.ttf",
+    "static/media/CenturyGothicBold.ttf": "/static/media/CenturyGothicBold.bed9b78456761fa9b435.ttf",
+    "static/media/atk-store.png": "/static/media/atk-store.93fd25b245007508c8b6.png",
+    "static/media/ts.png": "/static/media/ts.b67035d0ddc7c8797af4.png",
+    "index.html": "/index.html",
+    "main.7dacd188.css.map": "/static/css/main.7dacd188.css.map",
+    "main.c113720c.js.map": "/static/js/main.c113720c.js.map",
+    "453.32bc8d24.chunk.js.map": "/static/js/453.32bc8d24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dacd188.css",
+    "static/js/main.c113720c.js"
+  ]
+}
