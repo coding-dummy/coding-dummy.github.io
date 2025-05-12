@@ -6,9 +6,9 @@ This is a simple, responsive personal portfolio website created to showcase my p
 
 - Responsive Design – Optimized for desktops, tablets, and mobile devices.
 
-- Project Showcase – Highlights key projects with descriptions and links.
-
 - About Section – Brief introduction and skill summary.
+
+- Project Showcase – Highlights key projects with descriptions and links.
 
 - Contact Section – Includes contact form and social media links.
 
